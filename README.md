@@ -13,16 +13,16 @@ Bubble Knock — это динамичная аркада в стиле пин-�
 
 ## 📂 Структура
 
-Assets/ 
-├── Scripts/ 
-│ ├── ConnectionManager.cs # Подключение к Photon и создание комнат 
-│ ├── RoomManager.cs # Управление логикой комнаты 
-│ ├── SpawnPlayerManager.cs # Спавн игроков на сцене 
-│ ├── PlayerSync.cs # Сетевой синхрон позиции и действий 
-│ ├── GameStageManager.cs # Управление стадиями игры 
-│ ├── CameraManager.cs # Переключение камер 
-│ ├── BonusSpawner.cs # Спавн бонусов и препятствий 
-│ └── BallController.cs # Логика движения мяча
+-Assets/ 
+-── Scripts/ 
+- ├── ConnectionManager.cs # Подключение к Photon и создание комнат 
+- ├── RoomManager.cs # Управление логикой комнаты 
+- ├── SpawnPlayerManager.cs # Спавн игроков на сцене 
+- ├── PlayerSync.cs # Сетевой синхрон позиции и действий 
+- ├── GameStageManager.cs # Управление стадиями игры 
+- ├── CameraManager.cs # Переключение камер 
+- ├── BonusSpawner.cs # Спавн бонусов и препятствий 
+- └── BallController.cs # Логика движения мяча
 
 
 ## 🧠 Анализ и дополнения
